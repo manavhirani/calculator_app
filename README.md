@@ -1,6 +1,6 @@
 # Calculator
 
-Simple minimalistic calculator app implemented in Python using Tkinter.
+Simple minimalistic calculator app implemented in Python.
 
 ## Features
 - Addition
